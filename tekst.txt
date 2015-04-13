@@ -1,5 +1,6 @@
 1. Moje dane 
 2. Moj adres
 3. Numer telefonu
-4. E-mail
-5. Gadu-Gadu
+Nowa linijka 1
+Nowa linijka 2
+Nowa linijka 3
